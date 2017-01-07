@@ -1,4 +1,4 @@
 # encoding:utf-8
 """
-Init module for geoprocessing tasks
+Init module for virtual_gp tasks
 """
